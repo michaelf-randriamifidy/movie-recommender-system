@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+tqdm
+numba
+joblib
+python-dotenv
+jupyterlab
+ipykernel
+
