@@ -1,10 +1,10 @@
-matplotlib
 numpy
 pandas
+matplotlib
 tqdm
 numba
 joblib
 python-dotenv
 jupyterlab
 ipykernel
-
+umap-learn
